@@ -13,53 +13,51 @@ pilotar a nave mais icônica da saga Star Wars e enfrentar inúmeras ameaças.
 
 ### 🎮 Gameplay
 
-Controle Total da Millennium Falcon:
+**1 Controle Total da Millennium Falcon:**
 Utilize as setas direcionais do teclado para pilotar habilmente a Millennium Falcon através de um campo de batalha
 intergaláctico cheio de perigos. Desvie de naves inimigas, meteoros e tiros hostis enquanto navega pelos confins do espaço.
 
-Armas Poderosas:
+**2 Armas Poderosas:**
 Comande o arsenal da Millennium Falcon pressionando a barra de espaço para lançar uma salva de tiros precisos. Desencadeie
 um dilúvio de lasers para destruir os inimigos e proteger a galáxia da ameaça imperial.
 
-Especial Invencível:
+**3 Especial Invencível:**
 Acumule energia para ativar o poderoso especial da Millennium Falcon. Quando a barra estiver carregada, pressione a tecla "C"
 para tornar sua nave invencível temporariamente. Desfaça-se dos inimigos com facilidade enquanto atravessa tudo em seu caminho!
 
-Gerenciamento de Vida:
+**4 Gerenciamento de Vida:**
 Mantenha-se atento à sua saúde enquanto defende a galáxia. Comece com 3 vidas e procure por power-ups de vida que aparecem
 aleatoriamente após destruir um inimigo. Mantenha-se vivo para continuar lutando e alcançar a vitória.
 
-Pontuação Explosiva:
+**5 Pontuação Explosiva:**
 A cada inimigo abatido, ganhe 10 valiosos pontos. Desafie-se a alcançar a maior pontuação possível enquanto enfrenta ondas 
 intermináveis de adversários em uma batalha épica pela liberdade.
 
-## ⚙️ Executando os testes
+## 😈 Inimigos
 
-Para executar este projeto localmente em sua máquina, siga estas etapas:
+Em "Star Wars: Millennium Falcon Adventure", você enfrentará uma variedade de desafios que testarão suas habilidades de piloto
+e estrategista. Prepare-se para enfrentar três ondas distintas de inimigos, cada uma mais perigosa que a anterior:
 
-1. Clone o repositório para o seu computador:
+**Primeira Onda: Caças Estelares TIE/LN**
+Na primeira onda, os céus se enchem com a presença ameaçadora dos ágeis e letais Caças Estelares TIE/LN. Estas naves de combate
+imperiais são rápidas e manobráveis, representando uma ameaça constante à sua missão. Desvie de seus ataques e ataque com
+precisão para eliminar essa ameaça.
 
-   ```bash
-   git clone https://github.com/ITzspi/exemplo_tarefa.git
+**Segunda Onda: Chuva de Meteoros**
+Na segunda fase, você enfrentará um desafio totalmente diferente enquanto uma tempestade de meteoros assola o espaço ao seu redor.
+Manobre habilmente entre os destroços rochosos enquanto mantém sua Millennium Falcon intacta. A sobrevivência será sua prioridade
+enquanto enfrenta essa tempestade cósmica.
 
-```bash
-  git clone https://github.com/ITzspi/index_html.git
-```
-```bash
-  git clone https://github.com/ITzspi/palxboca.html.git
-```
-```bash
-  git clone https://github.com/ITzspi/bh.html.git
-```
-```bash
-  git clone https://github.com/ITzspi/styles.css.git
-```
-```bash
-  git clone https://github.com/ITzspi/palxboca.css.git
-```
-```bash
-  git clone https://github.com/ITzspi/bh.css.git
-```
+**Terceira Onda: O Grande Boss**
+Prepare-se para o confronto final contra um adversário formidável: o temível Boss. Esta nave colossal, com sua imponência e poder
+de fogo devastador, é o maior desafio que você enfrentará. Utilize todas as suas habilidades de piloto e estratégia para derrotar
+esse inimigo e garantir a vitória para a Rebelião.
+
+**Desafios Épicos Aguardam:**
+
+"Star Wars: Millennium Falcon Adventure" promete uma experiência emocionante e desafiadora, repleta de ação, perigo e heroísmo.
+Enfrente os Caças Estelares TIE/LN, sobreviva à chuva de meteoros e derrote o formidável Boss para se tornar um verdadeiro herói
+da Rebelião. A galáxia precisa de você - que a Força esteja com você!
 
 
 ## 📦 Implantação
