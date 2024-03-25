@@ -62,7 +62,7 @@ da Rebelião. A galáxia precisa de você - que a Força esteja com você!
 
 ## 📦 Banco de Dados
 
-O jogo está conectado a um banco de dados php para armazenar as pontuações dos jogadores e outras informações. O site utilizado foi
+O jogo está conectado a um banco de dados PHP para armazenar as pontuações dos jogadores, nome e data de inclusão. O site utilizado foi
 através do seguinte link:
 
 [Banco de Dados do Jogo](https://panel.000webhost.com/dashboard/fatec-test/dashboard)
@@ -77,24 +77,23 @@ através do seguinte link:
 
 Este projeto foi criado com o uso das seguintes tecnologias e ferramentas:
 
-* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - Linguagem de marcação para estruturar a página web.
-* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Folhas de estilo em cascata para estilizar a página.
-* [Visual Studio Code](https://code.visualstudio.com/) - O ambiente de desenvolvimento integrado (IDE) utilizado para escrever, editar e gerenciar o código-fonte do projeto.
+- [Construct 3](https://www.construct.net/en): Utilizado para a construção do jogo.
+- [000webhost](https://panel.000webhost.com): Utilizado para a construção do banco de dados.
 
-Certifique-se de incluir as tecnologias e ferramentas que você realmente utilizou para construir o seu site. Isso ajudará os leitores do README a entenderem as bases do seu projeto.
+
+## 📽️ Vídeo de Gameplay
+
+Confira o vídeo abaixo para ver a jogabilidade do jogo em ação:
+
+[![Star Wars: Millennium Falcon Adventure - Gameplay](http://img.youtube.com/vi/7VeEJXb0lNE/0.jpg)](https://www.youtube.com/watch?v=7VeEJXb0lNE)
 
 
 
 ## ✒️ Autores
 
 * **Felipe Avelino Pedaes** - *Autor Principal* - [Perfil no GitHub](https://github.com/ITzspi)
+* **Maria Eduarda Bembu** - *Design* -
 
-
-## 🎁 Expressões de gratidão
-
-*Gostaria de expressar minha sincera gratidão ao Professor Márcio pelo seu valioso apoio e orientação neste projeto. Sua ajuda e ensinamentos foram fundamentais para o sucesso deste trabalho.
-
-- Conte a outras pessoas sobre este projeto 📢.
 
 
 ---
