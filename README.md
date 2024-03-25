@@ -81,7 +81,26 @@ Este projeto foi criado com o uso das seguintes tecnologias e ferramentas:
 - [000webhost](https://panel.000webhost.com): Utilizado para a construção do banco de dados.
 
 
+## 🕹️ Baixar e Jogar o Jogo
 
+Para baixar e jogar o jogo, siga estas etapas:
+
+**Baixar o Arquivo do Jogo:**
+   Clique no link abaixo para baixar o arquivo do jogo:
+
+   [Baixar Star Wars Millennium Fallcon Adventure](https://github.com/ITzspi/Star-Wars-Millenium-Fallcon-Adventure/blob/main/Star%20Wars%20Millenium%20Fallcon%20Adventure%20(4).c3p)
+
+2. **Acesso ao Construct 3:**
+   Certifique-se de ter uma conta no Construct 3. Se você ainda não tem uma, crie uma conta em [Construct 3](https://www.construct.net/en).
+
+3. **Abrir o Arquivo do Jogo no Construct 3:**
+   Após criar sua conta, acesse o Construct 3 clicando [aqui](https://editor.construct.net/?startTour). 
+
+4. **Importar o Arquivo do Jogo:**
+   No Construct 3, clique no botão "Open" no canto superior direito da tela para abrir sua pasta. Em seguida, insira o arquivo do jogo que você baixou na etapa 1.
+
+5. **Agora só partir para a diversão:**
+   Com o arquivo do jogo aberto no Construct 3, você está pronto para jogar! Pressione o botão de reprodução para iniciar o jogo e embarcar na aventura da Millennium Falcon.
 
 
 ## 📸 Acesso às Imagens Utilizadas
