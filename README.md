@@ -81,6 +81,23 @@ Este projeto foi criado com o uso das seguintes tecnologias e ferramentas:
 - [000webhost](https://panel.000webhost.com): Utilizado para a construção do banco de dados.
 
 
+
+
+
+## 📸 Acesso às Imagens Utilizadas
+
+As imagens utilizadas no jogo estão disponíveis no seguinte diretório:
+
+[Imagens Utilizadas](https://github.com/ITzspi/Star-Wars-Millenium-Fallcon-Adventure/tree/main/imagens%20dos%20objetos%20utilizados)
+
+## 🔊 Acesso aos Sons Utilizados
+
+Os sons utilizados no jogo estão disponíveis no seguinte diretório:
+
+[Sons Utilizados](https://github.com/ITzspi/Star-Wars-Millenium-Fallcon-Adventure/tree/main/sons%20utilizados)
+
+
+
 ## 📽️ Vídeo de Gameplay
 
 Confira o vídeo abaixo para ver a jogabilidade do jogo em ação:
