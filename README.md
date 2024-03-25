@@ -86,7 +86,7 @@ Este projeto foi criado com o uso das seguintes tecnologias e ferramentas:
 Para baixar e jogar o jogo, siga estas etapas:
 
  1. **Baixar o Arquivo do Jogo:**
-   Clique no link abaixo para baixar o arquivo do jogo:
+   Clique no link para baixar o arquivo do jogo:
    [Baixar Star Wars Millennium Fallcon Adventure](https://github.com/ITzspi/Star-Wars-Millenium-Fallcon-Adventure/blob/main/Star%20Wars%20Millenium%20Fallcon%20Adventure%20(4).c3p)
 
 2. **Acesso ao Construct 3:**
