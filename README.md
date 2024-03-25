@@ -65,7 +65,7 @@ da Rebelião. A galáxia precisa de você - que a Força esteja com você!
 O jogo está conectado a um banco de dados php para armazenar as pontuações dos jogadores e outras informações. Você pode acessar
 o banco de dados através do seguinte link:
 
-[Banco de Dados do Jogo](https://databases.000webhost.com/index.php?route=/sql&db=id21939450_jogostmfa&table=score_novo&pos=0)
+[Banco de Dados do Jogo]([https://databases.000webhost.com/index.php?route=/sql&db=id21939450_jogostmfa&table=score_novo&pos=0](https://panel.000webhost.com/dashboard/fatec-test/dashboard))
 
 ### Instruções para Acesso:
 
