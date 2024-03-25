@@ -60,45 +60,21 @@ Enfrente os Caças Estelares TIE/LN, sobreviva à chuva de meteoros e derrote o 
 da Rebelião. A galáxia precisa de você - que a Força esteja com você!
 
 
-## 📦 Implantação
+## 📦 Banco de Dados
 
-Para implantar este site, siga estas etapas simples:
+O jogo está conectado a um banco de dados php para armazenar as pontuações dos jogadores e outras informações. Você pode acessar
+o banco de dados através do seguinte link:
 
-1. **Baixe os arquivos:** Clone ou baixe os arquivos do seu repositório do GitHub para o seu computador local.
+[Banco de Dados do Jogo](https://databases.000webhost.com/index.php?route=/sql&db=id21939450_jogostmfa&table=score_novo&pos=0)
 
-2. **Hospedagem de Sites Estáticos (Recomendado):**
-   
-   - Este projeto é principalmente composto de arquivos HTML, CSS e imagens, o que o torna adequado para hospedagem em serviços que suportam sites estáticos, como GitHub Pages ou Netlify.
-   
-   - Se você optar por usar o GitHub Pages, basta fazer o seguinte:
-   
-     - Faça login na sua conta do GitHub e acesse o repositório do seu projeto.
-     
-     - Clique na aba "Settings" (Configurações) na parte superior do repositório.
-     
-     - Role para baixo até a seção "GitHub Pages".
-     
-     - No menu suspenso "Source" (Origem), selecione o branch que contém seu código principal (normalmente, é a branch "main" ou "master").
-     
-     - Clique em "Save" (Salvar).
-     
-     - Seu site estará disponível em um link no formato `https://seunomeusuario.github.io/seurepositorio`.
+### Instruções para Acesso:
 
-3. **Configuração (se necessário):**
-   
-   - Se você estiver usando caminhos relativos para recursos como imagens e estilos, certifique-se de que esses caminhos estejam configurados corretamente.
+1. Clique no link fornecido acima para acessar o banco de dados do jogo.
+2. Você pode precisar fazer login com as credenciais apropriadas para acessar o banco de dados. Se você não tem uma conta, pode ser necessário se registrar no serviço de hospedagem.
+3. Uma vez logado, você será direcionado para a interface de gerenciamento do banco de dados, onde poderá visualizar, editar e gerenciar os dados da tabela "score_novo".
+4. Explore os dados conforme necessário para obter informações sobre as pontuações dos jogadores e outras estatísticas do jogo.
 
-4. **Monitoramento e Manutenção (Opcional):**
-   
-   - Para acompanhar o tráfego do seu site, você pode configurar ferramentas de análise de tráfego, como o Google Analytics.
-
-5. **Acesso ao Site Implanteado:**
-   
-   - Após seguir as etapas acima, seu site estará acessível online. Compartilhe o link com outras pessoas para que elas possam explorar o site.
-
-Isso é tudo! Seu site da "Sociedade Esportiva Palmeiras" agora está implantado e acessível online. Se você planeja fazer atualizações, basta fazer o push das mudanças para o repositório no GitHub, e o site será automaticamente atualizado na hospedagem.
-
-Lembre-se de manter uma cópia de backup dos seus arquivos e de verificar se todas as configurações de implantação estão corretas para garantir que o site funcione conforme o esperado.
+**Observação:** Este link é apenas para fins de visualização e gerenciamento do banco de dados. Os jogadores não precisam acessá-lo para jogar "Star Wars: Millennium Falcon Adventure".
 
 
 ## 🛠️ Construído com
