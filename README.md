@@ -62,20 +62,16 @@ da Rebelião. A galáxia precisa de você - que a Força esteja com você!
 
 ## 📦 Banco de Dados
 
-O jogo está conectado a um banco de dados php para armazenar as pontuações dos jogadores e outras informações. Você pode acessar
-o banco de dados através do seguinte link:
+O jogo está conectado a um banco de dados php para armazenar as pontuações dos jogadores e outras informações. O site utilizado foi
+através do seguinte link:
 
 [Banco de Dados do Jogo]([https://databases.000webhost.com/index.php?route=/sql&db=id21939450_jogostmfa&table=score_novo&pos=0](https://panel.000webhost.com/dashboard/fatec-test/dashboard))
 
-### Instruções para Acesso:
+## Arquivos PHP do Jogo
 
-1. Clique no link fornecido acima para acessar o banco de dados do jogo.
-2. Você pode precisar fazer login com as credenciais apropriadas para acessar o banco de dados. Se você não tem uma conta, pode ser necessário se registrar no serviço de hospedagem.
-3. Uma vez logado, você será direcionado para a interface de gerenciamento do banco de dados, onde poderá visualizar, editar e gerenciar os dados da tabela "score_novo".
-4. Explore os dados conforme necessário para obter informações sobre as pontuações dos jogadores e outras estatísticas do jogo.
-
-**Observação:** Este link é apenas para fins de visualização e gerenciamento do banco de dados. Os jogadores não precisam acessá-lo para jogar "Star Wars: Millennium Falcon Adventure".
-
+- [getscores.php](https://github.com/ITzspi/Star-Wars-Millenium-Fallcon-Adventure/blob/main/getscores%20(1).php): Este arquivo PHP é responsável por obter as pontuações dos jogadores do banco de dados.
+- [login.php](https://github.com/ITzspi/Star-Wars-Millenium-Fallcon-Adventure/blob/main/login%20(1).php): Este arquivo PHP trata do processo de login dos jogadores.
+- [savescores.php](https://github.com/ITzspi/Star-Wars-Millenium-Fallcon-Adventure/blob/main/savescores%20(1).php): Este arquivo PHP é responsável por salvar as pontuações dos jogadores no banco de dados.
 
 ## 🛠️ Construído com
 
