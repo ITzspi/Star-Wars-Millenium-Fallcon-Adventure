@@ -127,7 +127,7 @@ Confira o vídeo abaixo para ver a jogabilidade do jogo em ação:
 ## ✒️ Autores
 
 * **Felipe Avelino Pedaes** - *Autor Principal* - [Perfil no GitHub](https://github.com/ITzspi)
-* **Maria Eduarda Bembu** - *Design* - [mariaedubembo@gmail.com](mailto:mariaedubembo@gmail.com)
+* **Maria Eduarda Bembo** - *Design* - [mariaedubembo@gmail.com](mailto:mariaedubembo@gmail.com)
 
 
 
